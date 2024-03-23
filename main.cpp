@@ -1,7 +1,7 @@
 /*
 program : resistor color code
 write by : muhammad aqil
-create in : 23/3/2024
+create in : 22/3/2024
 
 this program not using any AI Tools and 100% Human
 */
